@@ -50,6 +50,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Special thanks to the [OpenAI](https://www.openai.com/) team for the GPT-3 model that assisted in the development of this README.
+- This was a LogProg Finals Submission made by the Python Squad Group! All rights reserved.
 
 Happy and secure password managing with SecurePass!
