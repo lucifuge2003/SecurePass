@@ -11,7 +11,7 @@ SecurePass is a simple and secure password manager designed to make managing you
 ## Getting Started
 
 1. **Download SecurePass:**
-   - Go to the [Releases]([https://github.com/your-username/SecurePass/releases](https://github.com/lucifuge2003/SecurePass/tree/main) section.
+   - Go to the [Releases]([(https://github.com/lucifuge2003/SecurePass/tree/main)]) section.
    - Download the latest release zip file.
 
 2. **Extract Files:**
